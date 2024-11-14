@@ -5,5 +5,6 @@
   - twilio==7.13.0
   - langchain==0.0.161
   - chromadb==0.3.8
+  - python
 
     
